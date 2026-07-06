@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StreamBot Dashboard</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+
+<body>
+    <div class="background-elements">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="app-container">
+        <!-- Sidebar -->
+        <nav class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo-icon"><i class="ph ph-monitor-play"></i></div>
+                <h2>StreamBot</h2>
+            </div>
+
+            <ul class="nav-links">
+                <li class="active"><a href="#"><i class="ph ph-squares-four"></i> Dashboard</a></li>
+                <li><a href="#videos"><i class="ph ph-video"></i> Local Videos</a></li>
+                <li><a href="#upload"><i class="ph ph-upload-simple"></i> Upload</a></li>
+            </ul>
+
+            <div class="bot-status-indicator {{ 'online' if bot_status.playing or bot_status.joined else 'offline' }}">
+                <div class="status-dot"></div>
+                <span>{{ 'Bot Active' if bot_status.playing or bot_status.joined else 'Bot Idle' }}</span>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="topbar">
+                <div class="header-info">
+                    <h1>Overview</h1>
+                    <div class="system-stats">
+                        <div class="stat-item">
+                            <i class="ph ph-cpu"></i>
+                            <span>CPU: <span id="cpu-usage">{{ stats.cpu }}</span>%</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="ph ph-memory"></i>
+                            <span>RAM: <span id="ram-usage">{{ stats.ram }}</span>%</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="user-profile">
+                    <img src="https://ui-avatars.com/api/?name=Admin&background=random" alt="Admin" class="avatar">
+                </div>
+            </header>
+
+            <!-- Now Playing Section -->
+            <section class="now-playing-section glass-panel">
+                <div class="section-header">
+                    <h3><i class="ph-fill ph-play-circle"></i> Now Playing</h3>
+                    <div class="controls">
+                        <button id="btn-loop" class="btn btn-secondary {{ 'active' if bot_status.loop else '' }}" onclick="toggleLoop()">
+                            <i class="ph ph-repeat"></i> <span id="loop-text">{{ 'Loop On' if bot_status.loop else 'Loop Off' }}</span>
+                        </button>
+                        <button id="btn-skip" class="btn btn-secondary" onclick="skipVideo()" {{ 'disabled' if not bot_status.playing else '' }}><i class="ph ph-skip-forward"></i> Skip</button>
+                        <button id="btn-stop" class="btn btn-danger" onclick="stopVideo()" {{ 'disabled' if not bot_status.joined else '' }}><i class="ph ph-stop"></i> Stop</button>
+                    </div>
+                </div>
+
+                <div class="current-track-info">
+                    {% if bot_status.current %}
+                    <div class="track-artwork">
+                        <i class="ph ph-music-notes"></i>
+                    </div>
+                    <div class="track-details">
+                        <h4>{{ bot_status.current.title }}</h4>
+                        <p>Requested by: {{ bot_status.current.requester }}</p>
+                        <div class="status-badge playing">Playing</div>
+                    </div>
+                    {% else %}
+                    <div class="track-artwork idle">
+                        <i class="ph ph-moon-stars"></i>
+                    </div>
+                    <div class="track-details">
+                        <h4>Nothing is playing right now</h4>
+                        <p>Add a video to the queue or play from local files.</p>
+                        <div class="status-badge idle">Idle</div>
+                    </div>
+                    {% endif %}
+                </div>
+            </section>
+
+            <!-- URL Play Section -->
+            <section class="quick-play-section glass-panel">
+                <h3>Quick Play URL</h3>
+                <div class="input-group">
+                    <input type="text" id="url-input" placeholder="Paste YouTube, Twitch, or direct video URL...">
+                    <button class="btn btn-primary" onclick="playUrl()"><i class="ph-fill ph-play"></i> Play
+                        URL</button>
+                </div>
+            </section>
+
+            <!-- Local Videos Section -->
+            <section id="videos" class="local-videos-section">
+                <div class="section-header">
+                    <h2>Local Videos</h2>
+                    <div class="header-actions">
+                        <div class="search-box">
+                            <i class="ph ph-magnifying-glass"></i>
+                            <input type="text" id="video-search" placeholder="Search videos..." onkeyup="filterVideos()">
+                        </div>
+                        <button class="btn btn-primary btn-sm" onclick="document.getElementById('file-upload').click()">
+                            <i class="ph ph-upload-simple"></i> Upload
+                        </button>
+                    </div>
+                    <input type="file" id="file-upload" style="display: none;" onchange="uploadFile(this)">
+                </div>
+
+                <div class="video-grid">
+                    {% for video in video_files %}
+                    <div class="video-card glass-panel">
+                        <div class="video-thumbnail">
+                            <i class="ph ph-video"></i>
+                            <div class="play-overlay" onclick="playLocal('{{ video.name }}')">
+                                <i class="ph-fill ph-play"></i>
+                            </div>
+                        </div>
+                        <div class="video-info">
+                            <h4 title="{{ video.name }}">{{ video.name }}</h4>
+                            <span class="video-size">{{ video.size }}</span>
+                        </div>
+                        <button class="delete-btn" onclick="deleteVideo('{{ video.name }}')"><i
+                                class="ph ph-trash"></i></button>
+                    </div>
+                    {% else %}
+                    <div class="empty-state">
+                        <i class="ph ph-folder-open"></i>
+                        <p>No local videos found.</p>
+                    </div>
+                    {% endfor %}
+                </div>
+            </section>
+            
+            <!-- Terminal Section -->
+            <section class="terminal-section glass-panel">
+                <div class="section-header">
+                    <h3><i class="ph ph-terminal-window"></i> Bot Logs</h3>
+                    <button class="btn btn-sm btn-secondary" onclick="fetchLogs()"><i class="ph ph-arrows-clockwise"></i> Refresh</button>
+                </div>
+                <div id="log-terminal" class="terminal-body">
+                    <pre id="log-content">Loading logs...</pre>
+                </div>
+            </section>
+
+        </main>
+
+        <!-- Queue Sidebar -->
+        <aside class="queue-sidebar glass-panel">
+            <div class="sidebar-header">
+                <h3>Up Next</h3>
+                <span class="queue-count">{{ bot_status.queue | length }} items</span>
+            </div>
+
+            <div class="queue-list">
+                {% for item in bot_status.queue %}
+                <div class="queue-item">
+                    <div class="queue-item-thumb"><i class="ph ph-youtube-logo"></i></div>
+                    <div class="queue-item-details">
+                        <h5>{{ item.title }}</h5>
+                        <span>{{ item.requester }}</span>
+                    </div>
+                </div>
+                {% else %}
+                <div class="empty-state small">
+                    <p>Queue is empty.</p>
+                </div>
+                {% endfor %}
+            </div>
+        </aside>
+    </div>
+
+    <!-- Upload Progress Modal -->
+    <div id="upload-modal" class="modal-overlay">
+        <div class="modal-content glass-panel">
+            <h3>Uploading File...</h3>
+            <div class="progress-bar-container">
+                <div id="upload-progress" class="progress-bar"></div>
+            </div>
+            <p id="upload-status">0%</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+
+</html>
