@@ -8,7 +8,7 @@ import ffmpegPath from 'ffmpeg-static';
 
 // Add ffmpeg to PATH
 if (ffmpegPath) {
-	process.env.PATH = `${path.dirname(ffmpegPath)}${path.delimiter}${process.env.PATH}`;
+	process.env.PATH = `${path.dirname(ffmpegPath as unknown as string)}${path.delimiter}${process.env.PATH}`;
 }
 
 // Import event handlers
