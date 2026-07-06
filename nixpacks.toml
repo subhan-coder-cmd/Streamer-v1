@@ -1,0 +1,12 @@
+[providers]
+node = true
+python = true
+
+[phases.setup]
+nixPkgs = ["...", "ffmpeg"]
+
+[phases.build]
+cmds = ["npm install", "npm run build", "pip install -r dashboard/requirements.txt", "pip install psutil"]
+
+[start]
+cmd = "npm start"

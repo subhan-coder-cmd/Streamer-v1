@@ -1,0 +1,447 @@
+[2026-05-16 17:56:39] [32minfo[39m: Available videos:
+pal pal
+[2026-05-16 17:56:39] [32minfo[39m: Loaded 11 commands
+[2026-05-16 17:56:39] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-16 17:56:41] [32minfo[39m: horneysaraiki is ready
+[2026-05-16 17:57:14] [32minfo[39m: Added to queue: pal pal mp4.mp4 (requested by API, resolved: true)
+[2026-05-16 17:57:14] [32minfo[39m: API Action Success: Added to queue: `pal pal mp4.mp4`
+[2026-05-16 17:57:14] [32minfo[39m: Playing from queue: pal pal mp4.mp4 (https://www.youtube.com/watch?v=_aPoGWt-Esg)
+[2026-05-16 17:57:18] [32minfo[39m: Downloading pal pal mp4.mp4...
+[2026-05-16 17:57:34] [32minfo[39m: Finished downloading pal pal mp4.mp4
+[2026-05-16 17:57:38] [32minfo[39m: API Playing: pal pal mp4.mp4
+[2026-05-16 17:58:10] [32minfo[39m: Added to queue: pal pal mp4.mp4 (requested by API, resolved: true)
+[2026-05-16 17:58:10] [32minfo[39m: API Action Success: Added to queue: `pal pal mp4.mp4`
+[2026-05-16 17:58:28] [32minfo[39m: Queue cleared
+[2026-05-16 17:58:28] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 17:58:28] [32minfo[39m: Failed playing: pal pal mp4.mp4
+[2026-05-16 18:00:06] [32minfo[39m: Available videos:
+pal pal
+[2026-05-16 18:00:06] [32minfo[39m: Loaded 11 commands
+[2026-05-16 18:00:06] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-16 18:00:08] [32minfo[39m: horneysaraiki is ready
+[2026-05-16 18:00:22] [32minfo[39m: Added to queue: pal pal mp4.mp4 (requested by API, resolved: true)
+[2026-05-16 18:00:22] [32minfo[39m: API Action Success: Added to queue: `pal pal mp4.mp4`
+[2026-05-16 18:00:22] [32minfo[39m: Playing from queue: pal pal mp4.mp4 (https://www.youtube.com/watch?v=_aPoGWt-Esg)
+[2026-05-16 18:00:26] [32minfo[39m: Downloading pal pal mp4.mp4...
+[2026-05-16 18:00:36] [32minfo[39m: Added to queue: pal pal mp4.mp4 (requested by API, resolved: true)
+[2026-05-16 18:00:36] [32minfo[39m: API Action Success: Added to queue: `pal pal mp4.mp4`
+[2026-05-16 18:00:36] [32minfo[39m: Playing from queue: pal pal mp4.mp4 (https://www.youtube.com/watch?v=_aPoGWt-Esg)
+[2026-05-16 18:00:41] [32minfo[39m: Downloading pal pal mp4.mp4...
+[2026-05-16 18:00:41] [32minfo[39m: Finished downloading pal pal mp4.mp4
+[2026-05-16 18:00:45] [32minfo[39m: API Playing: pal pal mp4.mp4
+[2026-05-16 18:00:56] [32minfo[39m: Finished downloading pal pal mp4.mp4
+[2026-05-16 18:00:58] [32minfo[39m: API Playing: pal pal mp4.mp4
+[2026-05-16 18:01:30] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-16 18:01:30] [32minfo[39m: Queue cleared
+[2026-05-16 18:01:30] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 18:02:31] [32minfo[39m: Added to queue: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay (requested by API, resolved: true)
+[2026-05-16 18:02:31] [32minfo[39m: API Action Success: Added to queue: `John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay`
+[2026-05-16 18:02:31] [32minfo[39m: Playing from queue: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay (https://www.youtube.com/watch?v=V6F61VtbVKo)
+[2026-05-16 18:02:36] [32minfo[39m: Downloading John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay...
+[2026-05-16 18:02:56] [32minfo[39m: Finished downloading John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:03:00] [32minfo[39m: API Playing: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:03:40] [32minfo[39m: Queue cleared
+[2026-05-16 18:03:40] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 18:03:40] [32minfo[39m: Failed playing: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:03:47] [32minfo[39m: Added to queue: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay (requested by API, resolved: true)
+[2026-05-16 18:03:47] [32minfo[39m: API Action Success: Added to queue: `John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay`
+[2026-05-16 18:03:47] [32minfo[39m: Playing from queue: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay (https://www.youtube.com/watch?v=V6F61VtbVKo)
+[2026-05-16 18:03:52] [32minfo[39m: Downloading John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay...
+[2026-05-16 18:04:05] [32minfo[39m: Finished downloading John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:04:09] [32minfo[39m: API Playing: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:04:33] [32minfo[39m: Queue cleared
+[2026-05-16 18:04:33] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 18:04:33] [32minfo[39m: Failed playing: John Wick 2014   Official Trailer   Keanu Reeves {Hindi-English} 1080p  BluRay
+[2026-05-16 18:05:47] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by .subhan.exe, resolved: true)
+[2026-05-16 18:05:49] [32minfo[39m: Playing from queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (videos\JALWA_-_CARRYMINATI_X_WILY_FRENZY.mkv)
+[2026-05-16 18:05:59] [32minfo[39m: Finished playing: pal pal mp4.mp4
+[2026-05-16 18:05:59] [32minfo[39m: API Finished playing
+[2026-05-16 18:05:59] [32minfo[39m: No more items in queue, playback stopped
+[2026-05-16 18:05:59] [32minfo[39m: Failed playing: JALWA_-_CARRYMINATI_X_WILY_FRENZY
+[2026-05-16 18:06:19] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by .subhan.exe, resolved: true)
+[2026-05-16 18:06:20] [32minfo[39m: Playing from queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (videos\JALWA_-_CARRYMINATI_X_WILY_FRENZY.mkv)
+[2026-05-16 18:09:56] [32minfo[39m: Finished playing: JALWA_-_CARRYMINATI_X_WILY_FRENZY
+[2026-05-16 18:09:57] [32minfo[39m: No more items in queue, playback stopped
+[2026-05-16 18:10:49] [32minfo[39m: Added to queue: Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s (requested by .subhan.exe, resolved: true)
+[2026-05-16 18:10:50] [32minfo[39m: Playing from queue: Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s (https://www.youtube.com/watch?v=2EPutYKTIB8)
+[2026-05-16 18:10:57] [32minfo[39m: Downloading Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s...
+[2026-05-16 18:11:07] [32minfo[39m: Finished downloading Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s
+[2026-05-16 18:12:39] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-16 18:12:39] [32minfo[39m: Queue cleared
+[2026-05-16 18:12:39] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 18:12:39] [32minfo[39m: Failed playing: Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s
+[2026-05-16 18:32:14] [32minfo[39m: Available videos:
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+[2026-05-16 18:32:14] [32minfo[39m: Loaded 12 commands
+[2026-05-16 18:32:14] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-16 18:32:17] [32minfo[39m: horneysaraiki is ready
+[2026-05-16 18:34:50] [32minfo[39m: Added to queue: Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro (requested by API, resolved: true)
+[2026-05-16 18:34:50] [32minfo[39m: API Action Success: Added to queue: `Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro`
+[2026-05-16 18:34:50] [32minfo[39m: Playing from queue: Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro (https://www.youtube.com/watch?v=7pnerLIvUag)
+[2026-05-16 18:34:57] [32minfo[39m: Downloading Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro...
+[2026-05-16 18:35:07] [32minfo[39m: Finished downloading Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro
+[2026-05-16 18:35:12] [32minfo[39m: API Playing: Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro
+[2026-05-16 18:37:48] [32minfo[39m: Finished playing: Afusic - Pal Pal with @Talwiinder (Official Visualiser) Prod.@AliSoomro
+[2026-05-16 18:37:48] [32minfo[39m: API Finished playing
+[2026-05-16 18:37:48] [32minfo[39m: No more items in queue, playback stopped
+[2026-05-16 18:45:42] [32minfo[39m: Available videos:
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+[2026-05-16 18:45:42] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-16 18:45:42] [32minfo[39m: Loaded 12 commands
+[2026-05-16 18:45:42] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-16 18:45:45] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-16 18:50:43] [32minfo[39m: Added to queue: pal pal (requested by .subhan.exe, resolved: true)
+[2026-05-16 18:50:44] [32minfo[39m: Playing from queue: pal pal (videos\pal pal.mp4)
+[2026-05-16 18:52:41] [32minfo[39m: Loop toggled to: true
+[2026-05-16 18:53:15] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-16 18:53:15] [32minfo[39m: Queue cleared
+[2026-05-16 18:53:15] [32minfo[39m: Queue cleared by stop command
+[2026-05-16 18:53:15] [32minfo[39m: Failed playing: pal pal
+[2026-05-16 21:31:11] [32minfo[39m: Available videos:
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+[2026-05-16 21:31:11] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-16 21:31:11] [32minfo[39m: Loaded 12 commands
+[2026-05-16 21:31:11] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-16 21:31:13] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-16 21:39:19] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by .subhan.exe, resolved: true)
+[2026-05-16 21:39:20] [32minfo[39m: Playing from queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (videos\JALWA_-_CARRYMINATI_X_WILY_FRENZY.mkv)
+[2026-05-16 21:43:01] [32minfo[39m: Finished playing: JALWA_-_CARRYMINATI_X_WILY_FRENZY
+[2026-05-16 21:43:01] [32minfo[39m: No more items in queue, playback stopped
+[2026-05-16 21:43:50] [31merror[39m: yt-dlp process exited with code 1. Stderr: ERROR: [Eporner] CEgvlc3d3Qd: Unable to download webpage: HTTPSConnection(host='www.eporner.com', port=443): Failed to resolve 'www.eporner.com' ([Errno 11002] getaddrinfo failed) (caused by TransportError("HTTPSConnection(host='www.eporner.com', port=443): Failed to resolve 'www.eporner.com' ([Errno 11002] getaddrinfo failed)"))
+
+[2026-05-16 21:43:50] [32minfo[39m: Added to queue: Direct URL (requested by .subhan.exe, resolved: true)
+[2026-05-16 21:43:51] [32minfo[39m: Playing from queue: Direct URL (https://www.eporner.com/video-CEgvlc3d3Qd/queen-marika-get-fucked-with-slave/)
+[2026-05-16 21:43:56] [31merror[39m: yt-dlp process exited with code 1. Stderr: ERROR: [Eporner] CEgvlc3d3Qd: Unable to download webpage: HTTPSConnection(host='www.eporner.com', port=443): Failed to resolve 'www.eporner.com' ([Errno 11002] getaddrinfo failed) (caused by TransportError("HTTPSConnection(host='www.eporner.com', port=443): Failed to resolve 'www.eporner.com' ([Errno 11002] getaddrinfo failed)"))
+
+[2026-05-16 21:44:15] [31merror[39m: playStream error: Failed to open input from Readable stream: Invalid data found when processing input
+[2026-05-16 21:44:15] [32minfo[39m: Failed playing: Direct URL
+[2026-05-16 21:44:43] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-16 21:44:43] [32minfo[39m: Queue cleared
+[2026-05-16 21:44:43] [32minfo[39m: Queue cleared by stop command
+[2026-05-18 01:25:53] [32minfo[39m: Available videos:
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+[2026-05-18 01:25:53] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-18 01:25:53] [32minfo[39m: Loaded 12 commands
+[2026-05-18 01:25:53] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-18 01:25:55] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-18 01:36:43] [32minfo[39m: Added to queue: vip videp (requested by .subhan.exe, resolved: true)
+[2026-05-18 01:36:44] [32minfo[39m: Playing from queue: vip videp (videos\vip videp.mp4)
+[2026-05-18 01:37:04] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-18 01:37:04] [32minfo[39m: Queue cleared
+[2026-05-18 01:37:04] [32minfo[39m: Queue cleared by stop command
+[2026-05-18 01:37:04] [32minfo[39m: Failed playing: vip videp
+[2026-05-18 01:37:52] [32minfo[39m: Available videos:
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+vip videp
+[2026-05-18 01:37:52] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-18 01:37:52] [32minfo[39m: Loaded 12 commands
+[2026-05-18 01:37:52] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-18 01:37:54] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-18 01:38:06] [32minfo[39m: Added to queue: vip videp (requested by .subhan.exe, resolved: true)
+[2026-05-18 01:38:07] [32minfo[39m: Playing from queue: vip videp (videos\vip videp.mp4)
+[2026-05-18 01:40:14] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-18 01:40:14] [32minfo[39m: Queue cleared
+[2026-05-18 01:40:14] [32minfo[39m: Queue cleared by stop command
+[2026-05-18 01:40:14] [32minfo[39m: Failed playing: vip videp
+[2026-05-21 13:40:12] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-21 13:40:12] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-21 13:40:15] [32minfo[39m: Loaded 12 commands
+[2026-05-21 13:40:15] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-21 13:40:18] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-21 13:49:08] [32minfo[39m: Added to queue: 2025-10-30 17-17-18 (requested by .subhan.exe, resolved: true)
+[2026-05-21 13:49:09] [32minfo[39m: Playing from queue: 2025-10-30 17-17-18 (videos\2025-10-30 17-17-18.mp4)
+[2026-05-21 13:50:04] [32minfo[39m: Loop toggled to: true
+[2026-05-21 13:55:58] [32minfo[39m: Added to queue: test video (requested by .subhan.exe, resolved: true)
+[2026-05-21 13:56:07] [32minfo[39m: Stopped playing: 2025-10-30 17-17-18
+[2026-05-21 13:56:08] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-21 13:56:33] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-21 13:56:33] [32minfo[39m: Queue cleared
+[2026-05-21 13:56:33] [32minfo[39m: Queue cleared by stop command
+[2026-05-21 13:56:33] [32minfo[39m: Failed playing: test video
+[2026-05-22 02:56:29] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-22 02:56:29] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-22 02:56:29] [32minfo[39m: Loaded 12 commands
+[2026-05-22 02:56:29] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-22 02:56:33] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-22 02:57:08] [32minfo[39m: Added to queue: PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT (requested by .subhan.exe, resolved: true)
+[2026-05-22 02:57:10] [31merror[39m: Error in adding to queue: https://www.youtube.com/watch?v=zP08f1DZin8: This can't be posted because it contains content blocked by this server. This may also be viewed by server owners.
+[2026-05-22 02:58:12] [32minfo[39m: Added to queue: Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s (requested by .subhan.exe, resolved: true)
+[2026-05-22 02:58:15] [32minfo[39m: Playing from queue: PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT (https://www.youtube.com/watch?v=zP08f1DZin8)
+[2026-05-22 02:58:21] [33mwarn[39m: Failed to send 'Downloading...' message: This can't be posted because it contains content blocked by this server. This may also be viewed by server owners.
+[2026-05-22 02:58:21] [32minfo[39m: Downloading PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT...
+[2026-05-22 02:58:47] [32minfo[39m: Finished downloading PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT
+[2026-05-22 02:58:53] [31merror[39m: Error in playing video: PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT: This can't be posted because it contains content blocked by this server. This may also be viewed by server owners.
+[2026-05-22 02:58:53] [32minfo[39m: Marked video as failed: https://www.youtube.com/watch?v=zP08f1DZin8
+[2026-05-22 02:59:26] [32minfo[39m: Added to queue: Girl Voice Tutorial in PUBG&FREEFIRE (Saraiki Plays) #saraikiplays-s (requested by .subhan.exe, resolved: true)
+[2026-05-22 02:59:29] [32minfo[39m: Playing from queue: PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT (https://www.youtube.com/watch?v=zP08f1DZin8)
+[2026-05-22 02:59:36] [33mwarn[39m: Failed to send 'Downloading...' message: This can't be posted because it contains content blocked by this server. This may also be viewed by server owners.
+[2026-05-22 02:59:36] [32minfo[39m: Downloading PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT...
+[2026-05-22 03:26:58] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-22 03:26:58] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-22 03:26:58] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-22 03:26:58] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-22 03:26:58] [32minfo[39m: Loaded 12 commands
+[2026-05-22 03:26:58] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-22 03:27:01] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-22 03:27:56] [32minfo[39m: Added to queue: PUBG MOBILE GAMELOOP WARRIOR BYPASS & CHEAT | 100% SAFE NO BAN | PUBG EMULATOR CHEAT (requested by .unclemajboor., resolved: true)
+[2026-05-22 03:27:57] [31merror[39m: Error in adding to queue: https://www.youtube.com/watch?v=zP08f1DZin8: This can't be posted because it contains content blocked by this server. This may also be viewed by server owners.
+[2026-05-22 03:31:00] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-22 03:31:00] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-22 03:31:00] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-22 03:31:00] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-22 03:31:00] [32minfo[39m: Loaded 12 commands
+[2026-05-22 03:31:00] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-22 03:31:02] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-22 03:31:57] [32minfo[39m: Added to queue: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥 (requested by .unclemajboor., resolved: true)
+[2026-05-22 03:31:58] [32minfo[39m: Playing from queue: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥 (https://www.youtube.com/watch?v=BgGqBUb3oUc)
+[2026-05-22 03:32:12] [32minfo[39m: Using direct stream URL for: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥
+[2026-05-22 03:33:34] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-22 03:33:34] [32minfo[39m: Queue cleared
+[2026-05-22 03:33:34] [32minfo[39m: Queue cleared by stop command
+[2026-05-22 03:33:34] [32minfo[39m: Failed playing: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥
+[2026-05-22 03:33:51] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by .unclemajboor., resolved: true)
+[2026-05-22 03:33:52] [32minfo[39m: Playing from queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (videos\JALWA_-_CARRYMINATI_X_WILY_FRENZY.mkv)
+[2026-05-22 03:36:17] [32minfo[39m: Added to queue: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥 (requested by .unclemajboor., resolved: true)
+[2026-05-22 03:37:29] [32minfo[39m: Finished playing: JALWA_-_CARRYMINATI_X_WILY_FRENZY
+[2026-05-22 03:37:31] [32minfo[39m: Auto-playing next item from queue: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥
+[2026-05-22 03:37:32] [32minfo[39m: Playing from queue: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥 (https://www.youtube.com/watch?v=BgGqBUb3oUc)
+[2026-05-22 03:37:47] [32minfo[39m: Using direct stream URL for: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥
+[2026-05-22 03:38:37] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-22 03:38:37] [32minfo[39m: Queue cleared
+[2026-05-22 03:38:37] [32minfo[39m: Queue cleared by stop command
+[2026-05-22 03:38:37] [32minfo[39m: Failed playing: MY FIRST VLOG🥹  | Free Fire World Series Karachi🔥
+[2026-05-22 03:39:50] [32minfo[39m: Added to queue: Video by alperemakin (requested by .unclemajboor., resolved: true)
+[2026-05-22 03:39:52] [32minfo[39m: Playing from queue: Video by alperemakin (https://instagram.fskt3-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQOw3MX-F9DC9nndvqajkqsyfXpLCjpxz9azDcVFlSOg1G5vdXDRDC11-T3foCXnOmR35bt6kImowG3OQc-KUMBXYXPoU6RFeHVZ51I.mp4?_nc_cat=108&_nc_oc=AdrFZ4wDJ11oFyKV-3XqY5J-UoM4dCIY0S4Vme5lUNVyvqROjA6XtOgSf3O1_Im6CbM&_nc_sid=5e9851&_nc_ht=instagram.fskt3-1.fna.fbcdn.net&_nc_ohc=F9AYxANdorUQ7kNvwGHZCQZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM5NzEyOTg2OTEwMTYxNSwiYXNzZXRfYWdlX2RheXMiOjksInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=1621ab36bef322aa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BRDQ3MDMyNkYyN0M0QTY4N0VCN0QzNzVGOUNEQTBCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E3NDJEREFBNEVCN0JCNDZDRTZFOTYwOTFFOTBEOEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbeqOzY1Kv7BBUCKAJDMywXQED3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=kGaiRxvoIU6xa9tVgR7Kww&_nc_zt=28&_nc_ss=7a22e&oh=00_Af4bJMe8Nh-8PNACHsG5mrjzG5JjTKnsgJbZAkVlLvtxrg&oe=6A114E9D)
+[2026-05-22 03:40:48] [32minfo[39m: Finished playing: Video by alperemakin
+[2026-05-22 03:40:49] [32minfo[39m: No more items in queue, playback stopped
+[2026-05-31 01:14:43] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:14:43] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:14:43] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:14:43] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:14:43] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:14:43] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:14:56] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:15:24] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:15:25] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:16:41] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:16:42] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:17:24] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:17:35] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:17:50] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:17:55] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:02] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:04] [31merror[39m: Uncaught Exception: Failed to process proposals: MessageProcessingFailed(ValidationError(WrongGroupId))
+[2026-05-31 01:18:06] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:08] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:09] [31merror[39m: Uncaught Exception: Failed to process proposals: MessageProcessingFailed(ValidationError(WrongGroupId))
+[2026-05-31 01:18:11] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:13] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:16] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:24] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:29] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:31] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:33] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:34] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:35] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:37] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:38] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:44] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:18:45] [31merror[39m: Uncaught Exception: Failed to process proposals: MessageProcessingFailed(ValidationError(WrongGroupId))
+[2026-05-31 01:19:09] [32minfo[39m: Added to queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:19:10] [32minfo[39m: Playing from queue: JALWA_-_CARRYMINATI_X_WILY_FRENZY (videos\JALWA_-_CARRYMINATI_X_WILY_FRENZY.mkv)
+[2026-05-31 01:19:53] [31merror[39m: Uncaught Exception: Failed to process proposals: MessageProcessingFailed(ValidationError(WrongGroupId))
+[2026-05-31 01:19:58] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:20:29] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-31 01:20:29] [32minfo[39m: Queue cleared
+[2026-05-31 01:20:29] [32minfo[39m: Queue cleared by stop command
+[2026-05-31 01:20:29] [32minfo[39m: Failed playing: JALWA_-_CARRYMINATI_X_WILY_FRENZY
+[2026-05-31 01:21:40] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:21:40] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:21:40] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:21:40] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:21:40] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:21:40] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:21:43] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:21:54] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:21:55] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:25:22] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:25:22] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:25:22] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:25:22] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:25:22] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:25:22] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:25:25] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:25:35] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:25:36] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:26:04] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:26:06] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:26:14] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:26:23] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:26:37] [32minfo[39m: Stopped playing video and cleared queue.
+[2026-05-31 01:26:37] [32minfo[39m: Queue cleared
+[2026-05-31 01:26:37] [32minfo[39m: Queue cleared by stop command
+[2026-05-31 01:27:51] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:27:51] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:27:51] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:27:51] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:27:51] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:27:51] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:27:54] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:28:01] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:28:03] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:28:45] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:28:45] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:28:45] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:28:45] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:28:45] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:28:45] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:28:49] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:29:02] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:29:03] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:30:26] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:30:27] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:31:55] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:31:56] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-05-31 01:32:47] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-05-31 01:32:47] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-05-31 01:32:47] [32minfo[39m: yt-dlp cookies loaded: C:\Users\SUBHAN\Desktop\StreamBot-main\cookies.txt
+[2026-05-31 01:32:47] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-05-31 01:32:47] [32minfo[39m: Loaded 12 commands
+[2026-05-31 01:32:47] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-05-31 01:32:57] [32minfo[39m: Logged in as horneysaraiki
+[2026-05-31 01:34:56] [32minfo[39m: Added to queue: test video (requested by moneyd.lufi, resolved: true)
+[2026-05-31 01:34:57] [32minfo[39m: Playing from queue: test video (videos\test video.mp4)
+[2026-06-24 20:07:20] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:07:20] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:07:20] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:07:20] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:07:20] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:07:20] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:07:22] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:07:33] [32minfo[39m: yt-dlp updated successfully. Output: Current version: stable@2026.03.17 from yt-dlp/yt-dlp
+Latest version: stable@2026.06.09 from yt-dlp/yt-dlp
+Current Build Hash: 3db811b366b2da47337d2fcfdfe5bbd9a258dad3f350c54974f005df115a1545
+Updating to stable@2026.06.09 from yt-dlp/yt-dlp ...
+Updated yt-dlp to stable@2026.06.09 from yt-dlp/yt-dlp
+[2026-06-24 20:08:02] [32minfo[39m: Added to queue: pal pal (requested by .subhan.exe, resolved: true)
+[2026-06-24 20:08:03] [32minfo[39m: Playing from queue: pal pal (videos\pal pal.mp4)
+[2026-06-24 20:08:08] [31merror[39m: An error happened with ffmpeg:
+[2026-06-24 20:11:29] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:11:29] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:11:29] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:11:29] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:11:29] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:11:29] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:11:31] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:12:01] [32minfo[39m: Loop toggled to: true
+[2026-06-24 20:12:09] [32minfo[39m: Loop toggled to: false
+[2026-06-24 20:12:31] [32minfo[39m: Loop toggled to: true
+[2026-06-24 20:12:33] [32minfo[39m: Added to queue: pal pal (requested by .subhan.exe, resolved: true)
+[2026-06-24 20:12:34] [32minfo[39m: Playing from queue: pal pal (videos\pal pal.mp4)
+[2026-06-24 20:12:39] [31merror[39m: An error happened with ffmpeg:
+[2026-06-24 20:14:44] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:14:44] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:14:44] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:14:44] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:14:44] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:14:44] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:14:46] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:14:57] [32minfo[39m: Added to queue: pal pal (requested by .subhan.exe, resolved: true)
+[2026-06-24 20:14:58] [32minfo[39m: Playing from queue: pal pal (videos\pal pal.mp4)
+[2026-06-24 20:15:04] [31merror[39m: An error happened with ffmpeg:
+[2026-06-24 20:31:04] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:31:04] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:31:04] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:31:04] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:31:04] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:31:04] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:31:06] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:32:16] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:32:16] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:32:16] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:32:16] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:32:16] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:32:16] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:32:18] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:34:23] [32minfo[39m: Available videos:
+2025-10-30 17-17-18
+JALWA_-_CARRYMINATI_X_WILY_FRENZY
+pal pal
+test video
+[2026-06-24 20:34:23] [32minfo[39m: Dashboard Link: http://127.0.0.1:5000
+[2026-06-24 20:34:23] [32minfo[39m: yt-dlp cookies loaded: D:\Media\dc bot\StreamBot-main\cookies.txt
+[2026-06-24 20:34:23] [32minfo[39m: yt-dlp JS runtime: node:C:\Program Files\nodejs\node.exe
+[2026-06-24 20:34:23] [32minfo[39m: Loaded 12 commands
+[2026-06-24 20:34:23] [32minfo[39m: Local API Server is running on http://127.0.0.1:8080
+[2026-06-24 20:34:25] [32minfo[39m: Logged in as alone1user
+[2026-06-24 20:37:13] [32minfo[39m: Added to queue: pal pal mp4.mp4 (requested by API, resolved: true)
+[2026-06-24 20:37:13] [32minfo[39m: API Action Success: Added to queue: `pal pal mp4.mp4`
+[2026-06-24 20:37:13] [32minfo[39m: Playing from queue: pal pal mp4.mp4 (https://www.youtube.com/watch?v=_aPoGWt-Esg)
+[2026-06-24 20:37:27] [32minfo[39m: Using direct stream URL for: pal pal mp4.mp4
+[2026-06-24 20:37:31] [32minfo[39m: API Playing: pal pal mp4.mp4
+[2026-06-24 20:37:31] [31merror[39m: An error happened with ffmpeg:
